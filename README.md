@@ -26,3 +26,8 @@ Make sure you have Node.js installed. You can download it from [nodejs.org](http
 To launch the project, run:
 ```sh
 npm start
+
+### Getting support for the game engine
+
+- https://phaser.io/
+- https://docs.phaser.io/api-documentation/class/scene
